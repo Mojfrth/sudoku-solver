@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently \"npm start\""
+    "sudoku-solver":"npm start --prefix ./sudoku-solver",
+    "dev": "concurrently \"npm start\" \"npm run client""
   },
   "keywords": [],
   "author": "",
