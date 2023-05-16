@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "sudoku-solver":"npm start --prefix ./sudoku-solver",
-    "dev": "concurrently \"npm start\" \"npm run client""
+    "dev": "concurrently \"npm start\""
   },
   "keywords": [],
   "author": "",
