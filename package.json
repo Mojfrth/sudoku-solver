@@ -2,10 +2,10 @@
   "name": "server1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Sudoku.js",
   "type": "module",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
