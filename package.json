@@ -2,7 +2,7 @@
   "name": "server1",
   "version": "1.0.0",
   "description": "",
-  "main": "Util.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js",
