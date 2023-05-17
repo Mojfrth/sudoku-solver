@@ -2,7 +2,7 @@
   "name": "server1",
   "version": "1.0.0",
   "description": "",
-  "main": "Sudoku.js",
+  "main": "SudokuUtil.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js"
